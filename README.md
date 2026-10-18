@@ -12,4 +12,4 @@ A serene, hand-drawn bonsai tree simulation game celebrating patience and mindfu
 
 ## Getting Started
 
-Open `index.html` in any modern web browser.
+Open `index.html` in any modern web browser or use it on https://jameop1.github.io/bonsai-game/
